@@ -26,6 +26,8 @@
   <a href="https://instagram.com/pedro_behling" target="blank_"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/instagram-icon.svg" target="blank_"></a>Instagram
 </div>
 
+##
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-behling/pedro-behling/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-behling/pedro-behling/output/pacman-contribution-graph.svg">
