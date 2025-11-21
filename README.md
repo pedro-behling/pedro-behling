@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 Studying Systems Analysis and Development at <a href="https://unisinos.br/?gad_source=1&gclid=CjwKCAjw7pO_BhAlEiwA4pMQvL3QGYVJrxEJkhNfqdn1OKaPmYuzLdiDTxg70R7ULbLmHsiHRwqtohoCfD8QAvD_BwE" target="blank_">Unisinos</a>
+🎓 Studying Systems Analysis and Development at <a href="http://www.ifsul.edu.br/" target="blank_">IFSUL</a>
 
 <div>
   <a href="https://github.com/pedro-behling">
